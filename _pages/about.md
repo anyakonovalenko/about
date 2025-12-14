@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist with a fresh defended PhD, specializing in applying advanced machine learning techniques to complex optimization problems. Currently looking for work opportunity.
+I am a Data Scientist with a freshly defended PhD, specializing in applying advanced machine learning techniques to complex optimization problems. Currently looking for work opportunities.
 
 ## Research Interests
 
