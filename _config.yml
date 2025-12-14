@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Anna Konovalenko, PhD"
 title_separator          : "-"
 name                     : &name "Anna Konovalenko, PhD"
-description              : &description "Research Scientist/ML Engineer specializing in Machine Learning for Complex Optimization Problems"
+description              : &description ""
 url                      : https://anyakonovalenko.github.io/about # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Anna Konovalenko, PhD"
   pronouns         : # example: "she/her"
-  bio              : "Research Scientist/ML Engineer with expertise in Machine Learning for optimization problems, deep learning, and reinforcement learning"
+  bio              : ""
   location         : "London, UK"
   employer         : #
   uri              : # URL
